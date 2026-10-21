@@ -122,5 +122,5 @@ and the yield is 62%
 |8|[Bakuzis2026.pdf](articles/Bakuzis2026.pdf)|Tetrahedron 195 (2026) 135237|
 |9|[dubnikova2005.pdf](articles/dubnikova2005.pdf)|J. AM. CHEM. SOC. 2005, 127, 1146-1159|
 |10|[jiang1999.pdf](articles/jiang1999.pdf)|J. Chem. Research (S), 1999, 288-289|
-|11|[CN102584782A.pdf](CN102584782A.pdf)|patent CN102584782A (2012)|
-|12|[pena2005.pdf](pena2005.pdf)| Proc. of SPIE Vol. 5778|
+|11|[CN102584782A.pdf](articles/CN102584782A.pdf)|patent CN102584782A (2012)|
+|12|[pena2005.pdf](articles/pena2005.pdf)| Proc. of SPIE Vol. 5778|
