@@ -110,7 +110,7 @@ and the yield is 62%
 
 ## References
 |Number| File name | Journal |
-|-----------|---------|
+|------|-----------|---------|
 |1|[wolffenstein1895.pdf](wolffenstein_1895.pdf) |Ber. dtsch. chem. Ges. 28 (1895) 2265–2269. | 
 |2|[wolffenstein1895_en.pdf](wolffenstein1895_en.pdf)| English translation by Claude Opus 5.0 |
 |3|[baeyer-villiger1899.pdf](baeyer-villiger1899.pdf)|Ber. dtsch. chem. Ges. 32 (1899) 3625–3633.|
