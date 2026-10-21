@@ -73,8 +73,7 @@ procedure. I have doubts about its reproducibility. Moreover, according to the a
 made no difference compared with the other acid catalysts, and TATP was always obtained as the main product rather than TertATP. This observation further supports my doubts about the reliability of this method.
 For now, the original synthetic method and the patent method are described here.
 
-TertATP:
-from the article ![APEX](images/images-4-3.png)
+TertATP: ![APEX](images/images-4-3.png)
 Acetone(8.12 g, 0.14 mol) was added to a solution of SnCl4 5H2O(350 mg, 1 mmol) in 20 ml 30% hydrogen peroxide and the mixture was vigorously stirred
 with a magnetic stirrer at room temperture fr 24h. A white solid was produced gradually.
 After the reaction was stopped, the unreacted acetone was evaporated on rotary evaporator at 25-30 C,
