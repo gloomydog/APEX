@@ -67,12 +67,12 @@ under reduced pressure (2 mmHg) to give pure 2 (20.5 g, 32%).
 
 ### TerATP
 In contrast,a single procedure has been reported for the synthesis of terATP using a Lewis acid, SnCl4 5H2O, and.
-to my knowledge, hardly any subsequent studies have followed this method. The only reports I found were a patent published in 2011 and a journal article.
+to my knowledge, hardly any subsequent studies have followed this method. [10]
+The only reports I found were a patent published in 2011 and a journal article.[11][12]
 The patent did not provide reliable characterization data such as NMR, element analysis, or mass spectrometer,
 offering only IR data. The article did not describe the synthesis procedure in detail and lacked a purification
-procedure. I have doubts about its reproducibility. Moreover, according to the article, the choice of Lewis acid catalyst
-made no difference compared with the other acid catalysts, and TATP was always obtained as the main product rather than TertATP. This observation further supports my doubts about the reliability of this method.
-For now, the original synthetic method and the patent method are described here.
+procedure. I have doubts about its reproducibility. Moreover, according to the article [7], the choice of Lewis acid catalyst made no difference compared with the other acid catalysts, and TATP was always obtained as the main product rather than TertATP. This observation further supports my doubts about the reliability of this method.
+For now, the original synthetic method and the patent method are described here.[10][11]
 
 TertATP: ![APEX](images/images-4-3..png)
 Acetone(8.12 g, 0.14 mol) was added to a solution of SnCl4 5H2O(350 mg, 1 mmol) in 20 ml 30% hydrogen peroxide and the mixture was vigorously stirred
@@ -121,4 +121,6 @@ and the yield is 62%
 |7|[matyas2010.pdf](articles/matyas2010.pdf)|Propellants Explos. Pyrotech. 2010, 35, 31 – 37|
 |8|[Bakuzis2026.pdf](articles/Bakuzis2026.pdf)|Tetrahedron 195 (2026) 135237|
 |9|[dubnikova2005.pdf](articles/dubnikova2005.pdf)|J. AM. CHEM. SOC. 2005, 127, 1146-1159|
-|10|||
+|10|[jiang1999.pdf](articles/jiang1999.pdf)|J. Chem. Research (S), 1999, 288-289|
+|11|[CN102584782A.pdf](CN102584782A.pdf)|patent CN102584782A (2012)|
+|12|[pena2005.pdf](pena2005.pdf)| Proc. of SPIE Vol. 5778|
