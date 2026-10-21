@@ -3,6 +3,10 @@
 This repository documents the history and synthesis procedures of APEX, with the original sources provided as PDFs.
 Some of the articles were originally written in German. English translations are also included.
 
+Claude refused my prompt asking for APEX over and over again...:(
+
+![APEX](images/images-0.png)
+
 ## Brief history
 
 Aceton peroxide (APEX) is an organic peroxide classified as  a primary explosive.
@@ -100,5 +104,8 @@ and the yield is 62%
 
 
 
-
+## References
+| File name | Journal |
+|-----------|---------|
+|[]() | | 
 
