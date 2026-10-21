@@ -37,15 +37,6 @@ Wolffenstein's synthesis has been employed for TATP. However, this method often 
 the concentration and molar ratio of acids and acetone, and the type of solvent (protic or aprotic).
 Although I searched for a reliable synthetic procedure, most of the reports I found were of questionable credibility and lacked yield data or sufficient experimental detail. Here, I provides a reliable method to obtain the pure DATP and TATP separately.
 
-### TerATP
-In contrast,a single procedure has been reported for the synthesis of terATP using a Lewis acid, SnCl4 5H2O, and.
-to my knowledge, hardly any subsequent studies have followed this method. The only reports I found were a patent published in 2011 and a journal article.
-The patent did not provide reliable characterization data such as NMR, element analysis, or mass spectrometer,
-offering only IR data. The article did not describe the synthesis procedure in detail and lacked a purification
-procedure. I have doubts about its reproducibility. Moreover, according to the article, the choice of Lewis acid catalyst
-made no difference compared with the other acid catalysts, and TATP was always obtained as the main product rather than TertATP. This observation further supports my doubts about the reliability of this method.
-For now, the original synthetic method and the patent method are described here.
-
 TATP:
 Acetone (5.6 g, 0.1 mol) was mixed with hydrogen
 peroxide (30%, 0.1 mol), and the mixture was cooled to 0 °C.
@@ -73,8 +64,17 @@ give 24 g of a white powder. This crude product was recrystallized
 from hot methanol (12 mL of methanol per 1 g of crude 2) and dried
 under reduced pressure (2 mmHg) to give pure 2 (20.5 g, 32%).
 
+### TerATP
+In contrast,a single procedure has been reported for the synthesis of terATP using a Lewis acid, SnCl4 5H2O, and.
+to my knowledge, hardly any subsequent studies have followed this method. The only reports I found were a patent published in 2011 and a journal article.
+The patent did not provide reliable characterization data such as NMR, element analysis, or mass spectrometer,
+offering only IR data. The article did not describe the synthesis procedure in detail and lacked a purification
+procedure. I have doubts about its reproducibility. Moreover, according to the article, the choice of Lewis acid catalyst
+made no difference compared with the other acid catalysts, and TATP was always obtained as the main product rather than TertATP. This observation further supports my doubts about the reliability of this method.
+For now, the original synthetic method and the patent method are described here.
+
 TertATP:
-from
+from the article
 Acetone(8.12 g, 0.14 mol) was added to a solution of SnCl4 5H2O(350 mg, 1 mmol) in 20 ml 30% hydrogen peroxide and the mixture was vigorously stirred
 with a magnetic stirrer at room temperture fr 24h. A white solid was produced gradually.
 After the reaction was stopped, the unreacted acetone was evaporated on rotary evaporator at 25-30 C,
