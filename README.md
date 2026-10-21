@@ -59,7 +59,7 @@ the form of white powder.
 ### TerATP
 In contrast,a single procedure has been reported for the synthesis of terATP using a Lewis acid, SnCl4 5H2O, and.
 to my knowledge, hardly any subsequent studies have followed this method. [10]
-The only reports I found were a patent published in 2011 and a journal article.[11][12]
+The only reports I found were a chinese patent published in 2011 and a journal article.[11][12]
 The patent did not provide reliable characterization data such as NMR, element analysis, or mass spectrometer,
 offering only IR data. The article did not describe the synthesis procedure in detail and lacked a purification
 procedure. I have doubts about its reproducibility. Moreover, according to the article [7], the choice of Lewis acid catalyst made no difference compared with the other acid catalysts, and TATP was always obtained as the main product rather than TertATP. This observation further supports my doubts about the reliability of this method.
