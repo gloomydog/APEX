@@ -37,7 +37,7 @@ Wolffenstein's synthesis has been employed for TATP. However, this method often 
 the concentration and molar ratio of acids and acetone, and the type of solvent (protic or aprotic).
 Although I searched for a reliable synthetic procedure, most of the reports I found were of questionable credibility and lacked yield data or sufficient experimental detail. Here, I provides a reliable method to obtain the pure DATP and TATP separately.
 
-TATP:
+TATP:![APEX](images/images-4-1.png)
 Acetone (5.6 g, 0.1 mol) was mixed with hydrogen
 peroxide (30%, 0.1 mol), and the mixture was cooled to 0 °C.
 Concentrated sulfuric acid (5 drops) was slowly added at the same
@@ -46,7 +46,7 @@ and kept at this temperature without stirring for 24 h. The resultant
 precipitate was collected by filtration with suction and air-dried to afford
 TATP (4.7 g, 65%) in the form of white crystals.
 
-DATP:
+DATP:![APEX](images/images-4-2.png)
 A mixture of acetone (62.5 mL, 0.85 mol), meth-
 anesulfonic acid (3 mL), and dichloromethane (250 mL) was vigorously
 stirred at room temperature in a 1 L flask for 10 min and then cooled
@@ -74,7 +74,7 @@ made no difference compared with the other acid catalysts, and TATP was always o
 For now, the original synthetic method and the patent method are described here.
 
 TertATP:
-from the article
+from the article ![APEX](images/images-4-3.png)
 Acetone(8.12 g, 0.14 mol) was added to a solution of SnCl4 5H2O(350 mg, 1 mmol) in 20 ml 30% hydrogen peroxide and the mixture was vigorously stirred
 with a magnetic stirrer at room temperture fr 24h. A white solid was produced gradually.
 After the reaction was stopped, the unreacted acetone was evaporated on rotary evaporator at 25-30 C,
@@ -101,6 +101,12 @@ dry it naturally to obtain 20.7g of white powdery crystalline product with a pur
  The yield is 70% at this time. After three purifications, the purity can reach 96.3%,
 and the yield is 62%
 
+## Reaction mechanism
+![APEX](images/images-4.png)
+
+![APEX](images/images-5.png)
+
+![APEX](images/images-6.png)
 
 
 ## References
