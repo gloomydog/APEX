@@ -19,13 +19,13 @@ triacetone triperoxide (TATP), while invetigating the action of hydrogen peroxid
 traditionally associated with the death of Socrates.
 His synthesis involved treating acetone with hydrogen peroxide in the presence of a drop of phosphoric acid,
 indicating an acid-catalyzed condensation process. He also demonstrated that TATP decomposed completely into aceton
-and hydrogen peroxide upon warming with dilute sulfuric acid.
+and hydrogen peroxide upon warming with dilute sulfuric acid.[1][2]
 
 ![APEX](images/images-1.png)
 
 In 1899, Baeyer and Villiger synthesized DATP while investigating the action of  Caro's reagent(H2SO5) on acetone.They firstly assigned it as a polymer of acetone peroxide because its melting poiint (132-133) differed
-from Wolfstein report's(m.p 97 degree). In 1900,  molecular weight dtermination showed that the compound was
-in fact a dimer of acetone peroxide (DATP).They also reported that TATP was formed in the presence of concentrated hydrochloric acid,whereas a mixture of dimer and trimer was obtained in the presence of sulfuric acid monohydrate.
+from Wolfstein report's(m.p 97 degree).[3][4]
+In 1900,  molecular weight dtermination showed that the compound was in fact a dimer of acetone peroxide (DATP).They also reported that TATP was formed in the presence of concentrated hydrochloric acid,whereas a mixture of dimer and trimer was obtained in the presence of sulfuric acid monohydrate. [5][6]
 
 ![APEX](images/images-2.png)
 ![APEX](images/images-3.png)
@@ -34,8 +34,9 @@ in fact a dimer of acetone peroxide (DATP).They also reported that TATP was form
 
 ### TATP and DATP
 Wolffenstein's synthesis has been employed for TATP. However, this method often affords a mixture of TATP and DATP.Therefore,many reserchers have attempted to modify it for optimaization.The yields of TATP and DATP depends on multiple factors, including the temperture,the type of acid such as HCl, H2SO4,H3PO4, and p-TsOH,
-the concentration and molar ratio of acids and acetone, and the type of solvent (protic or aprotic).
-Although I searched for a reliable synthetic procedure, most of the reports I found were of questionable credibility and lacked yield data or sufficient experimental detail. Here, I provides a reliable method to obtain the pure DATP and TATP separately.
+the concentration and molar ratio of acids and acetone, and the type of solvent (protic or aprotic).[7][8]
+Although I searched for a reliable synthetic procedure, most of the reports I found were of questionable credibility and lacked yield data or sufficient experimental detail. 
+Here, I provides a reliable method to obtain the pure DATP and TATP separately.[9]
 
 TATP:![APEX](images/images-4-1.png)
 Acetone (5.6 g, 0.1 mol) was mixed with hydrogen
@@ -117,5 +118,7 @@ and the yield is 62%
 |4|[baeyer-villiger1899_en.pdf](articles/baeyer-villiger1899_en.pdf)| English translation by Claude Opus 5.0|
 |5|[baeyer-villiger1900.pdf](articles/baeyer-villiger1900.pdf)|Ber. dtsch. chem. Ges. 33 (1900) 858–864.|
 |6|[baeyer-villiger1900_en.pdf](articles/baeyer-villiger1900_en.pdf)|English translation by Claude Opus 5.0|
-
-
+|7|[matyas2010.pdf](articles/matyas2010.pdf)|Propellants Explos. Pyrotech. 2010, 35, 31 – 37|
+|8|[Bakuzis2026.pdf](articles/Bakuzis2026.pdf)|Tetrahedron 195 (2026) 135237|
+|9|[dubnikova2005.pdf](articles/dubnikova2005.pdf)|J. AM. CHEM. SOC. 2005, 127, 1146-1159|
+|10|||
