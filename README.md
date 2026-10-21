@@ -21,30 +21,29 @@ His synthesis involved treating acetone with hydrogen peroxide in the presence o
 indicating an acid-catalyzed condensation process. He also demonstrated that TATP decomposed completely into aceton
 and hydrogen peroxide upon warming with dilute sulfuric acid.
 
-In 1899, Baeyer and Villiger synthesized DATP while investigating the action of  Caro's reagent(H2SO5) on acetone.
-They firstly assigned it as a polymer of acetone peroxide because its melting poiint (132-133) differed
+![APEX](images/images-1.png)
+
+In 1899, Baeyer and Villiger synthesized DATP while investigating the action of  Caro's reagent(H2SO5) on acetone.They firstly assigned it as a polymer of acetone peroxide because its melting poiint (132-133) differed
 from Wolfstein report's(m.p 97 degree). In 1900,  molecular weight dtermination showed that the compound was
-in fact a dimer of acetone peroxide (DATP).They also reported that TATP was formed in the presence of concentrated
-hydrochloric acid,whereas a mixture of dimer and trimer was obtained in the presence of sulfuric acid monohydrate.
+in fact a dimer of acetone peroxide (DATP).They also reported that TATP was formed in the presence of concentrated hydrochloric acid,whereas a mixture of dimer and trimer was obtained in the presence of sulfuric acid monohydrate.
+
+![APEX](images/images-2.png)
+![APEX](images/images-3.png)
 
 ## Synthetic procedure
-Wolffenstein's synthesis has been employed for TATP. However, this method often affords a mixture of TATP and DATP.
-Therefore,many reserchers have attempted to modify it for optimaization.
-The yields of TATP and DATP depends on multiple factors, including the temperture,
- the type of acid such as HCl, H2SO4,H3PO4, and p-TsOH,
-the concentration and molar ratio of hydrogen peroxide and acids, and the type of solvent (protic or aprotic).
-Although I searched for a reliable synthetic procedure, most of the reports I found were of questionable credibility
-and lacked yield data or sufficient experimental detail. Here, I provides a reliable method to obtain the pure DATP
- and TATP separately.
 
-In contrast,a single procedure has been reported for the synthesis of terATP using a Lewsi acid, SnCl4 5H2O, and.
-to my knowledge, hardly any subsequent studies have followed this method. The only reports I found wre a patent published in
-2011 and a journal article.
-The patent did not provide reliable characterization data such as NMR, element analysis, or mass spectrometry,
-offering only IR data. The article did not describe the synthesic procedure in detail and lacked a purification
-procedure. I have doubts about its reproducibility. Moreover, accorting to the article, the choice of Lewis acid ctalyst
-made no diffrecne compared with the other acid catalysts, and the trimer was always obtained as the main product rather than
-tetramer. This observation further supports my doubts about the reliability of this method.
+### TATP and DATP
+Wolffenstein's synthesis has been employed for TATP. However, this method often affords a mixture of TATP and DATP.Therefore,many reserchers have attempted to modify it for optimaization.The yields of TATP and DATP depends on multiple factors, including the temperture,the type of acid such as HCl, H2SO4,H3PO4, and p-TsOH,
+the concentration and molar ratio of acids and acetone, and the type of solvent (protic or aprotic).
+Although I searched for a reliable synthetic procedure, most of the reports I found were of questionable credibility and lacked yield data or sufficient experimental detail. Here, I provides a reliable method to obtain the pure DATP and TATP separately.
+
+### TerATP
+In contrast,a single procedure has been reported for the synthesis of terATP using a Lewis acid, SnCl4 5H2O, and.
+to my knowledge, hardly any subsequent studies have followed this method. The only reports I found were a patent published in 2011 and a journal article.
+The patent did not provide reliable characterization data such as NMR, element analysis, or mass spectrometer,
+offering only IR data. The article did not describe the synthesis procedure in detail and lacked a purification
+procedure. I have doubts about its reproducibility. Moreover, according to the article, the choice of Lewis acid catalyst
+made no difference compared with the other acid catalysts, and TATP was always obtained as the main product rather than TertATP. This observation further supports my doubts about the reliability of this method.
 For now, the original synthetic method and the patent method are described here.
 
 TATP:
