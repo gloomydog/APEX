@@ -3,7 +3,7 @@
 This repository documents the history and synthesis procedures of APEX, with the original sources provided as PDFs.
 Some of the articles were originally written in German. English translations are also included.
 
-Claude refused my prompt asking for APEX over and over again...:(
+Claude refused my prompt asking for APEX over and over again... :(
 
 ![APEX](images/images-0.png)
 
@@ -109,7 +109,13 @@ and the yield is 62%
 
 
 ## References
-| File name | Journal |
+|Number| File name | Journal |
 |-----------|---------|
-|[]() | | 
+|1|[wolffenstein1895.pdf](wolffenstein_1895.pdf) |Ber. dtsch. chem. Ges. 28 (1895) 2265–2269. | 
+|2|[wolffenstein1895_en.pdf](wolffenstein1895_en.pdf)| English translation by Claude Opus 5.0 |
+|3|[baeyer-villiger1899.pdf](baeyer-villiger1899.pdf)|Ber. dtsch. chem. Ges. 32 (1899) 3625–3633.|
+|4|[baeyer-villiger1899_en.pdf](baeyer-villiger1899_en.pdf)| English translation by Claude Opus 5.0|
+|5|[baeyer-villiger1900.pdf](baeyer-villiger1900.pdf)|Ber. dtsch. chem. Ges. 33 (1900) 858–864.|
+|6|[baeyer-villiger1900_en.pdf](baeyer-villiger1900_en.pdf)|English translation by Claude Opus 5.0|
+
 
