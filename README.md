@@ -50,14 +50,14 @@ TATP (4.7 g, 65%) in the form of white crystals.
 
 **DADP:**
 ![APEX](images/images-4-2.png)
- Acetone (0.5 g, 8.6 mmol) was dissolved in either dry chloroform or dry dichloromethane, catalytic amounts of p-toluene-
+ TATP (0.5 g, 2.25 mmol) was dissolved in either dry chloroform or dry dichloromethane, catalytic amounts of p-toluene-
 sulfonic acid were added, and the mixture was kept at room temperature
 for one week. The solvent was removed under reduced pressure, and
-the residue was recrystallized from hot methanol to yield DADP (0.3 g, 2.0 mmol, 47%) in
+the residue was recrystallized from hot methanol to yield DADP (0.3 g, 2.0 mmol, 89%) in
 the form of white powder. 
 
 ### TerATP
-In contrast,a single procedure has been reported for the synthesis of terATP using a Lewis acid, SnCl4 5H2O, and.
+In contrast,a single procedure has been reported for the synthesis of terATP using a Lewis acid, SnCl4 5H2O, and,
 to my knowledge, hardly any subsequent studies have followed this method. [10]
 The only reports I found were a chinese patent published in 2011 and a journal article.[11][12]
 The patent did not provide reliable characterization data such as NMR, element analysis, or mass spectrometer,
