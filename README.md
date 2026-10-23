@@ -3,7 +3,7 @@
 This repository documents the history and synthesis procedures of APEX, with the original sources provided as PDFs.
 Some of the articles were originally written in German. English translations are also included.
 
-Claude refused my prompt asking for APEX over and over again... :(
+*Claude refused my prompt asking for APEX over and over again... :( It's really getting on my nerves..I'm about to turn anti-AI.*
 
 ![APEX](images/images-0.png)
 
@@ -14,7 +14,7 @@ It has been used in homemade explosives (HMEs) and in terrorist attacks, owing t
 from readily available commercial precursors; acetone, hydrogen peroxide.
 Among these APEX, triaceton triperoxide (TATP) is the one  most frequently employed in terrorist attacks.
 
-In 1895, The German chemist Richard Wolfenstein serendipitously obtained acetone peroxide, now widely known as
+In 1895, The German chemist Richard Wolffenstein serendipitously obtained acetone peroxide, now widely known as
 triacetone triperoxide (TATP), while invetigating the action of hydrogen peroxide on coniine, the toxic alkalid
 traditionally associated with the death of Socrates.
 His synthesis involved treating acetone with hydrogen peroxide in the presence of a drop of phosphoric acid,
@@ -23,9 +23,9 @@ and hydrogen peroxide upon warming with dilute sulfuric acid.[1][2]
 
 ![APEX](images/images-1.png)
 
-In 1899, Baeyer and Villiger synthesized diacetone diperoxide (DADP) while investigating the action of  Caro's reagent(H2SO5) on acetone.They firstly assigned it as a polymer of acetone peroxide because its melting poiint (132-133) differed
-from Wolfstein report's(m.p 97 degree).[3][4]
-In 1900,  molecular weight dtermination showed that the compound was in fact a dimer of acetone peroxide (DADP).They also reported that TATP was formed in the presence of concentrated hydrochloric acid,whereas a mixture of dimer and trimer was obtained in the presence of sulfuric acid monohydrate. [5][6]
+In 1899, Baeyer and Villiger synthesized diacetone diperoxide (DADP) while investigating the action of Caro's reagent(H2SO5) on acetone.They firstly assigned it as a polymer of acetone peroxide because its melting point (132-133) differed
+from Wolffenstein report's(m.p 97 degree).[3][4]
+In 1900,  molecular weight determination showed that the compound was in fact a dimer of acetone peroxide (DADP).They also reported that TATP was formed in the presence of concentrated hydrochloric acid,whereas a mixture of dimer and trimer was obtained in the presence of sulfuric acid monohydrate. [5][6]
 
 ![APEX](images/images-2.png)
 ![APEX](images/images-3.png)
@@ -59,10 +59,10 @@ the form of white powder.
 ### TerATP
 In contrast,a single procedure has been reported for the synthesis of terATP using a Lewis acid, SnCl4 5H2O, and,
 to my knowledge, hardly any subsequent studies have followed this method. [10]
-The only reports I found were a chinese patent published in 2011 and a journal article.[11][12]
+The only reports I found were a chinese patent published in 2011[11] and a journal article[12].
 The patent did not provide reliable characterization data such as NMR, element analysis, or mass spectrometer,
 offering only IR data. The article did not describe the synthesis procedure in detail and lacked a purification
-procedure. I have doubts about its reproducibility. Moreover, according to the article [7], the choice of Lewis acid catalyst made no difference compared with the other acid catalysts, and TATP was always obtained as the main product rather than TertATP. This observation further supports my doubts about the reliability of this method.
+procedure. I have doubts about its reproducibility. Moreover, according to Matyas's group [7], the choice of Lewis acid catalyst made no difference compared with the other acid catalysts, and TATP was always obtained as the main product rather than TertATP. This observation further supports my doubts about the reliability of this method.
 For now, the original synthetic method and the patent method are described here.[10][11]
 
 TertATP: ![APEX](images/images-4-3..png)
