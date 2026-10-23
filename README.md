@@ -93,19 +93,19 @@ and the yield is 62%
 ## Reaction mechanism
 All of the following reactions are acid-catalyzed.
 
-**TATP**
+### TATP
 Under acidic conditions, acetone and hydrogen peroxide are proposed to assemble TATP as follows. Protonation of the carbonyl oxygen of acetone enhances the electrophilicity of the carbonyl carbon, which is attacked by H₂O₂.Loss of a proton affords 2-hydroxy-2-hydroperoxypropane. Protonation of the hydroxyl group and subsequent loss of water generate a cation stabilized by the adjacent peroxide oxygen, best described as the peroxycarbenium. Attack of the oxygen of a second, protonated acetone molecule on this cation links the two units through a C–O–O–C linkage. Iteration of the same sequence (addition of H₂O₂, dehydration to the peroxycarbenium ion, and attack by the next acetone unit) extends the chain to the open-chain trimer HO–CMe₂–OO–CMe₂–OO–CMe₂–OOH. Finally, protonation of the terminal hydroxyl group and loss of water give a cation that is captured intramolecularly by the oxygen of the hydroperoxide group at the opposite terminus. Deprotonation closes the nine-membered ring of TATP. The acid is consumed and regenerated throughout, acting as a catalyst, and three equivalents of water are released overall from three molecules each of acetone and H₂O₂.
 
 ![APEX](images/images-4.png)
 
-**TertATP**
+### TertATP
 If the terminal hydroperoxide of the open-chain trimer HO–CMe₂–OO–CMe₂–OO–CMe₂–OOH is intercepted by a fourth acetone molecule rather than cyclizing, the same sequence extends the chain by one more unit: attack on protonated acetone, loss of water to the peroxycarbenium ion, and trapping by H₂O₂ give the open-chain tetramer. Dehydration of its terminal hydroxyl group followed by intramolecular attack of the distal hydroperoxide oxygen then closes the twelve-membered ring of the tetrameric peroxide. The ring size is thus determined simply by whether cyclization or addition of a further acetone unit occurs first.
 
 *Considering in mechanistic terms, this is the pathway that operates in the article cited above [10], in which SnCl4 5H2O is reported to favor the reaction of the trimer HO–CMe₂–OO–CMe₂–OO–CMe₂–OOH with acetone. However, why this Lewis acid should exert this effect remains unclear... :(*
 
 ![APEX](images/images-5.png)
 
-**DADP**
+### DADP
 In an aprotic solvent and in the presence of an acid (HA), TATP is proposed to react as follows.
 Protonation of a peroxidic oxygen of the nine-membered ring induces heterolytic C-O cleavage,affording the open-chain cation HOO–C1–OO–C2–O(a)O(b)–C3⁺. Donation of the O(b) lone pair into C3⁺ stabilizes this cation as the peroxycarbenium ion –O(a)–O(b)⁺=C3Me₂. The anion A⁻ then attacks the electrophilic O(a) of the O–O⁺ moiety, and cleavage of the O(a)–O(b) bond releases acetone, while giving the intermediate. Subsequent heterolysis of the C2–OA bond expels AO⁻ and generates the tertiary cation C2⁺, which is stabilized by the lone pairs of the adjacent peroxide oxygen. Intramolecular attack of the terminal hydroperoxide oxygen on the C1 side at C2⁺ then closes the six-membered 1,2,4,5-tetroxane ring, and proton transfer from the resulting oxonium oxygen to AO⁻ provides AOH.
 
